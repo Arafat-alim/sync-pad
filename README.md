@@ -1,1 +1,1 @@
-"SyncPad - For synchronized editing in real time." 
+# SyncPad - For synchronized editing in real time.
